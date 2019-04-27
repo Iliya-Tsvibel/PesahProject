@@ -1,0 +1,7 @@
+C:\Users\yulia\source\repos\CalcProject\CalcProject\bin\Debug\CalcProject.exe.config
+C:\Users\yulia\source\repos\CalcProject\CalcProject\bin\Debug\CalcProject.exe
+C:\Users\yulia\source\repos\CalcProject\CalcProject\bin\Debug\CalcProject.pdb
+C:\Users\yulia\source\repos\CalcProject\CalcProject\obj\Debug\CalcProject.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\CalcProject\CalcProject\obj\Debug\CalcProject.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\CalcProject\CalcProject\obj\Debug\CalcProject.exe
+C:\Users\yulia\source\repos\CalcProject\CalcProject\obj\Debug\CalcProject.pdb
