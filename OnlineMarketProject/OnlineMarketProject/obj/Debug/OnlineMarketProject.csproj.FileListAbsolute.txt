@@ -1,7 +1,0 @@
-C:\Users\yulia\source\repos\OnlineMarketProject\OnlineMarketProject\bin\Debug\OnlineMarketProject.exe.config
-C:\Users\yulia\source\repos\OnlineMarketProject\OnlineMarketProject\bin\Debug\OnlineMarketProject.exe
-C:\Users\yulia\source\repos\OnlineMarketProject\OnlineMarketProject\bin\Debug\OnlineMarketProject.pdb
-C:\Users\yulia\source\repos\OnlineMarketProject\OnlineMarketProject\obj\Debug\OnlineMarketProject.csprojAssemblyReference.cache
-C:\Users\yulia\source\repos\OnlineMarketProject\OnlineMarketProject\obj\Debug\OnlineMarketProject.csproj.CoreCompileInputs.cache
-C:\Users\yulia\source\repos\OnlineMarketProject\OnlineMarketProject\obj\Debug\OnlineMarketProject.exe
-C:\Users\yulia\source\repos\OnlineMarketProject\OnlineMarketProject\obj\Debug\OnlineMarketProject.pdb
